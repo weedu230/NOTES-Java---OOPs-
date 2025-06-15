@@ -1,7 +1,7 @@
 # 👾 Java OOP Complete Guide 🚀
 _Your ultimate cheat sheet for mastering Object-Oriented Programming in Java!_
 
-![Java OOP GIF](https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif) <!-- Replace with a custom "OOPS" or "Java OOPS" GIF -->
+
 
 ---
 
