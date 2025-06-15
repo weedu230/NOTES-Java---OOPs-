@@ -53,7 +53,7 @@ This repository contains detailed notes and examples covering **Java Object-Orie
 - ✅ Java input handling via Scanner class.
 - ✅ Conditionals, loops, and switch statements explained.
 - ✅ Java versions and IDE tools overview.
-- ✅ OOP explained with real-life anime-style examples.
+- ✅ OOP explained with real-life examples.
 
 ---
 
